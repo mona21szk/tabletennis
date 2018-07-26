@@ -68,7 +68,7 @@
    ### 3.4 戦績テーブル「record」
    |カラム名|和名|型|NULL|主キー|備考|
    |------|-----|----|-----|----|------|
-   |player_name|選手名|varchar|NO|||
+   |player_name|選手名|varchar(15)|NO|||
    |tournament_name|大会名|varchar(15)|NO|||
    |day|対戦日|date|NO|||
    |count|ゲームカウント|char(3)|NO|||
